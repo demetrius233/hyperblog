@@ -1,6 +1,6 @@
 body{ 
     font-family: Arial, Helvetica, sans-serif;
-    color: red;
+    color: #555353;
 }
 .cabecera{
     background-color: dodgerblue;
@@ -23,6 +23,12 @@ body{
     margin: 0 auto;
 }
 
+.footer{
+    text-align: center;
+    padding: .5em;
+    background-color: darkgray;
+    color: white;
+}
 .post{
     padding: 1em;
 }
