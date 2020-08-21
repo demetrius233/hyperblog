@@ -8,7 +8,8 @@ body{
     margin: 0;
     padding: 1em;
     font-size: 20px;
-    
+    display: flex;
+    align-items: center;
 }
 
 .cabecera span{
@@ -28,4 +29,8 @@ body{
 
 h1{
     font-size: 24px;
+}
+.logo{
+    width:40px;
+    margin-right: 10px;
 }
